@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jxnHd
-- 👀 I’m interested in digital circuit design
+- 👀 I’m interested in digital circuit design and algorithm in eda
 - 🌱 I’m currently learning about the combination of ai and chip
 
 <!---
